@@ -8,11 +8,11 @@ The purpose of this challenge was to read weather data from an SQLite database a
 
 ![June temperature summary](Resources/june.png)![December temperature summary](Resources/december.png)
 
-*The average temperature in December is less than 4 degrees colder than in June.
+* The average temperature in December is less than 4 degrees colder than in June.
 
-*The difference is slightly larger on colder days (5 degree difference at Q1).
+* The difference is slightly larger on colder days (5 degree difference at Q1).
 
-*The difference is slightly smaller on warm days (3 degree difference at Q3).
+* The difference is slightly smaller on warm days (3 degree difference at Q3).
 
 ### Summary
 
